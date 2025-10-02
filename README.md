@@ -1,7 +1,5 @@
 # FBI Crime Data Reporting and NIBRS Adoption Rate Analysis
 
-Author: Srinivasan Poonkundran
-
 This repository contains an exploratory data analysis of FBI agency-level reporting and the adoption rate of the National Incident-Based Reporting System (NIBRS) across U.S. law enforcement agencies. The analysis investigates how agency types vary across states and the proportion of agencies in each state that report via NIBRS, along with trends in NIBRS adoption over time.
 
 ## Research Question
